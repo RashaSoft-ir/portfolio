@@ -34,4 +34,5 @@ Courses created by [Mohammad Hosseinzadeh](https://github.com/Rashaweb):
 
 ---
 *Built with passion by RashaSoft.* 
-created by [Mohammad Hosseinzadeh] +989113269223
+---
+created by: Mohammad Hosseinzadeh (+989113269223)
