@@ -14,7 +14,6 @@ Developing a corporate web portal to manage energy distribution information and 
 ### 🖼 Preview 
 ## تصاویر پروژه
 ![Kian Energy Home](https://via.placeholder.com/800x400?text=Kian+Energy+Screenshot)
-*(در اینجا می‌توانید اسکرین‌شات واقعی خود را آپلود کنید)*
 ![صفحه اصلی سایت کینا انرژی](../assets/kina-energy/home.png)
 
 <img src="../assets/kina-energy/home.png" alt="صفحه اصلی سایت کینا انرژی" width="700">
