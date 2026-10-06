@@ -73,7 +73,18 @@ Developing a corporate web portal to manage energy distribution information and 
   <a href="../assets/kian-energy/services.png">
     <img src="../assets/kian-energy/services2.png" alt="معرفی خدمات" width="50%">
   </a>
+
+
+
+| صفحه اصلی | بخش معرفی خدمات |
+| :---: | :---: |
+| <a href="../assets/kian-energy/home2.png"><img src="../assets/kian-energy/home2.png" alt="صفحه اصلی" width="220"></a> | <a href="../assets/kian-energy/services2.png"><img src="../assets/kian-energy/services2.png" alt="معرفی خدمات" width="220"></a> |
+
+| **درباره ما** | **تماس با ما** |
+| <a href="../assets/kian-energy/about.png"><img src="../assets/kian-energy/about.png" alt="درباره ما" width="220" ></a> | <a href="../assets/kian-energy/contactus.png"><img src="../assets/kian-energy/contactus.png" alt="تماس با ما" width="220"></a> |
+
 </details>
+
 
 <details>
   <summary><b>🔹 ۳. درباره ما (About Us)</b></summary>
