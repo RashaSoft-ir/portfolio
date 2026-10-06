@@ -36,7 +36,7 @@ Developing a corporate web portal to manage energy distribution information and 
   <br>
   <p>طراحی هدر، بنر اصلی و کال‌تو‌اکشن‌های هدفمند برای هدایت سریع کاربران به بخش‌های کلیدی انرژی.</p>
   <a href="../assets/kian-energy/home.png">
-    <img src="../assets/kian-energy/home.png" alt="صفحه اصلی" width="100%">
+    <img src="../assets/kian-energy/home.png" alt="صفحه اصلی" width="50%">
   </a>
 </details>
 
@@ -45,7 +45,7 @@ Developing a corporate web portal to manage energy distribution information and 
   <br>
   <p>ارائه ساختاریافته خدمات مهندسی و بازرگانی کیان انرژی با آیکون‌گرافی اختصاصی و کارت‌های مجزا.</p>
   <a href="../assets/kian-energy/services.png">
-    <img src="../assets/kian-energy/services.png" alt="معرفی خدمات" width="100%">
+    <img src="../assets/kian-energy/services.png" alt="معرفی خدمات" width="50%">
   </a>
 </details>
 
@@ -54,7 +54,7 @@ Developing a corporate web portal to manage energy distribution information and 
   <br>
   <p>معرفی تاریخچه، اهداف استراتژیک، و گواهی‌نامه‌های تخصصی مجموعه.</p>
   <a href="../assets/kian-energy/about.png">
-    <img src="../assets/kian-energy/about.png" alt="درباره ما" width="100%">
+    <img src="../assets/kian-energy/about.png" alt="درباره ما" width="50%">
   </a>
 </details>
 
