@@ -22,3 +22,4 @@ Developing a corporate web portal to manage energy distribution information and 
 ![بخش معرفی خدمات](../assets/kina-energy/services.png)
 
 [Visit Website](https://kian-energy.com)
+![صفحه اصلی کینا انرژی](../assets/kian-energy/home.png)
