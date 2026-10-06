@@ -21,12 +21,23 @@ Developing a corporate web portal to manage energy distribution information and 
 
 > *برای مشاهده تصویر با کیفیت و ابعاد اصلی، روی هر پیش‌نمایش کلیک کنید.*
 
-| صفحه اصلی | بخش معرفی خدمات | درباره ما |
+
+| صفحه اصلی | بخش معرفی خدمات |
+| :---: | :---: |
+| <a href="../assets/kian-energy/home.png"><img src="../assets/kian-energy/home.png" alt="صفحه اصلی" width="220"></a> | <a href="../assets/kian-energy/services2.png"><img src="../assets/kian-energy/services2.png" alt="معرفی خدمات" width="220"></a> |
+
+| **درباره ما** | **تماس با ما** |
+| <a href="../assets/kian-energy/about.png"><img src="../assets/kian-energy/about.png" alt="درباره ما" width="220"></a> | <a href="../assets/kian-energy/contactus.png"><img src="../assets/kian-energy/contactus.png" alt="تماس با ما" width="220"></a> |
+
+
+
+<!-- | صفحه اصلی | بخش معرفی خدمات | درباره ما |
 | :---: | :---: | :---: |
-| [![صفحه اصلی](../assets/kian-energy/home.png)](../assets/kian-energy/home.png) | 
+| [![صفحه اصلی](../assets/kian-energy/home.png alt="معرفی خدمات" width="50%"> heigh="50"%)](../assets/kian-energy/home.png) | 
 [![معرفی خدمات](../assets/kian-energy/services2.png)](../assets/kian-energy/services2.png) |
  [![درباره ما](../assets/kian-energy/about.png)](../assets/kian-energy/about.png) |
- [![تماس با ما](../assets/kian-energy/contactus.png)](../assets/kian-energy/contactus.png)
+ [![تماس با ما](../assets/kian-energy/contactus.png)](../assets/kian-energy/contactus.png) -->
+
 <!-- | **محصولات / پروژه‌ها** | **بلاگ و مقالات** | **تماس با ما** | -->
 
 <!-- 
