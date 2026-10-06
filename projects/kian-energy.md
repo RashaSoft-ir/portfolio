@@ -20,7 +20,14 @@ Developing a corporate web portal to manage energy distribution information and 
 <details>
   <summary>🔍 مشاهده بخش معرفی خدمات</summary>
   <br>
-  <img src="../assets/kian-energy/services.png" alt="بخش معرفی خدمات" width="100%">
+  <img src="../assets/kian-energy/services2.png" alt="بخش معرفی خدمات" width="100%">
+    <br>
+  <img src="../assets/kian-energy/services.png" alt="کل صفحه معرفی خدمات" width="100%">
+    <br>
+  <img src="../assets/kian-energy/services-khordeforoshi.png" alt="بخش خدمات برق" width="100%">
+    <br>
+  <img src="../assets/kian-energy/services-green.png" alt="بخش معرفی خدمات برق سبز" width="100%">
+  
 </details>
 
 <img src="../assets/kina-energy/home.png" alt="صفحه اصلی سایت کینا انرژی" width="400">
