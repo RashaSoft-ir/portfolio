@@ -22,7 +22,7 @@ Developing a corporate web portal to manage energy distribution information and 
 > *برای مشاهده تصویر با کیفیت و ابعاد اصلی، روی هر پیش‌نمایش کلیک کنید.*
 
 
-| صفحه98jh اصلی | بخش معرفی خدمات |
+| صفحه اصلی | بخش معرفی خدمات |
 | :---: | :---: |
 | <a href="../assets/kian-energy/home2.png"><img src="../assets/kian-energy/home2.png" alt="صفحه اصلی" width="220"></a> | <a href="../assets/kian-energy/services2.png"><img src="../assets/kian-energy/services2.png" alt="معرفی خدمات" width="220"></a> |
 
