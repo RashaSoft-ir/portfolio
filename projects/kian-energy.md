@@ -15,7 +15,7 @@ Developing a corporate web portal to manage energy distribution information and 
 
 [Visit Website](https://kian-energy.com)
 
-## تصاویر پروژه کیان انرژی شمال:
+<!-- ## تصاویر پروژه کیان انرژی شمال: -->
 
 ## 📸 گالری تصاویر پروژه کیان انرژی شمال (پیش‌نمایش سریع)
 
@@ -24,19 +24,19 @@ Developing a corporate web portal to manage energy distribution information and 
 | صفحه اصلی | بخش معرفی خدمات | درباره ما |
 | :---: | :---: | :---: |
 | [![صفحه اصلی](../assets/kian-energy/home.png)](../assets/kian-energy/home.png) | 
-[![معرفی خدمات](../assets/kian-energy/services.png)](../assets/kian-energy/services.png) |
+[![معرفی خدمات](../assets/kian-energy/services2.png)](../assets/kian-energy/services2.png) |
  [![درباره ما](../assets/kian-energy/about.png)](../assets/kian-energy/about.png) |
+ [![تماس با ما](../assets/kian-energy/contactus.png)](../assets/kian-energy/contactus.png)
+<!-- | **محصولات / پروژه‌ها** | **بلاگ و مقالات** | **تماس با ما** | -->
 
-| **محصولات / پروژه‌ها** | **بلاگ و مقالات** | **تماس با ما** |
-| [![محصولات](../assets/kian-energy/products.png)](../assets/kian-energy/products.png) 
+<!-- 
 
-| [![مقالات](../assets/kian-energy/blog.png)](../assets/kian-energy/blog.png) | 
-
-[![تماس با ما](../assets/kian-energy/contactus.png)](../assets/kian-energy/contactus.png) |
+[![تماس با ما](../assets/kian-energy/contactus.png)](../assets/kian-energy/contactus.png) | -->
 
 ---
 
-## 🔍 بررسی بخش‌های مختلف سایت به تفکیک
+## 🔍 بررسی بخش‌های مختلف سایت کیان انرژی شمال به تفکیک
+
 
 <details>
   <summary><b>🔹 ۱. صفحه اصلی (Home Page)</b></summary>
@@ -93,7 +93,7 @@ Developing a corporate web portal to manage energy distribution information and 
 </details>
 
 
-
+<!-- 
 <details>
   <summary>🔍 مشاهده بخش معرفی خدمات</summary>
   <br>
@@ -107,7 +107,7 @@ Developing a corporate web portal to manage energy distribution information and 
   
   <img src="../assets/kian-energy/ghatnasho.png" alt="بخش معرفی خدمات برق قطع نشو" width="100%">
 
-</details>
+</details> -->
 
 
 <!-- <img src="../assets/kina-energy/home.png" alt="صفحه اصلی سایت کینا انرژی" width="400"> -->
