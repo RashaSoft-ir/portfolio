@@ -82,8 +82,80 @@ Developing a corporate web portal to manage energy distribution information and 
 
 </details>
 
+<!-- --------------------------------------------------------------- -->
 
 
+<details>
+  <summary><b>🔹 ۲. بخش معرفی خدمات (Services)</b></summary>
+  <br>
+  <p>ارائه ساختاریافته خدمات مهندسی و بازرگانی کیان انرژی با آیکون‌گرافی اختصاصی و کارت‌های مجزا.</p>
+  
+  <a href="../assets/kian-energy/services2.png">
+    <img src="../assets/kian-energy/services2.png" alt="صفحه معرفی خدمات" width="70%">
+  </a>
+
+  <br><br>
+  <h3>📋 ۶ خدمت تخصصی کیان انرژی:</h3>
+
+  <details>
+    <summary>⚡ <b>خدمت ۱: خرده‌فروشی برق</b></summary>
+    <br>
+    <p>توضیح کوتاه درباره خرید و فروش بهینه برق در بورس انرژی.</p>
+    <a href="../assets/kian-energy/service-1.png">
+      <img src="../assets/kian-energy/service-1.png" alt="خرده‌فروشی برق" width="60%">
+    </a>
+  </details>
+
+  <details>
+    <summary>🌱 <b>خدمت ۲: خرید برق سبز و ماده ۱۶</b></summary>
+    <br>
+    <p>تأمین برق تجدیدپذیر مطابق با الزامات قانونی ماده ۱۶ جهش تولید دانش‌بنیان.</p>
+    <a href="../assets/kian-energy/service-2.png">
+      <img src="../assets/kian-energy/service-2.png" alt="خرید برق سبز" width="60%">
+    </a>
+  </details>
+
+  <details>
+    <summary>🛡️ <b>خدمت ۳: برق قطع‌نشو (تضمین پایداری)</b></summary>
+    <br>
+    <p>راهکارهای حفظ پایداری خطوط برق صنایع در روزهای اوج بار مصرف و پیک شبکه.</p>
+    <a href="../assets/kian-energy/service-3.png">
+      <img src="../assets/kian-energy/service-3.png" alt="برق قطع‌نشو" width="60%">
+    </a>
+  </details>
+
+  <details>
+    <summary>📊 <b>خدمت ۴: تحلیل و کاهش هزینه‌های قبوض برق</b></summary>
+    <br>
+    <p>آنالیز تخصصی قبوض دیماندی و صنعتی جهت کاهش جرائم توان راکتیو و اوج بار.</p>
+    <a href="../assets/kian-energy/service-4.png">
+      <img src="../assets/kian-energy/service-4.png" alt="تحلیل قبوض برق" width="60%">
+    </a>
+  </details>
+
+  <details>
+    <summary>🏭 <b>خدمت ۵: تأمین برق صنایع و بالای ۱۵۰ کیلووات</b></summary>
+    <br>
+    <p>مشاوره و تأمین مستقیم برق از نیروگاه‌ها با تعرفه رقابتی برای صنایع و کارخانجات بزرگ.</p>
+    <a href="../assets/kian-energy/service-5.png">
+      <img src="../assets/kian-energy/service-5.png" alt="تأمین برق بالای ۱۵۰ کیلووات" width="60%">
+    </a>
+  </details>
+
+  <details>
+    <summary>🤝 <b>خدمت ۶: خرید انشعاب و خدمات پس از فروش</b></summary>
+    <br>
+    <p>پشتیبانی کامل فرایند اخذ انشعاب، دیماند جدید و پیگیری‌های حقوقی و فنی برق منطقه‌ای.</p>
+    <a href="../assets/kian-energy/service-6.png">
+      <img src="../assets/kian-energy/service-6.png" alt="خرید انشعاب و خدمات پس از فروش" width="60%">
+    </a>
+  </details>
+
+</details>
+
+
+
+<!-- --------------------------------------------------------------- -->
 <details>
   <summary><b>🔹 ۳. درباره ما (About Us)</b></summary>
   <br>
