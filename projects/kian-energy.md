@@ -15,8 +15,9 @@ Developing a corporate web portal to manage energy distribution information and 
 
 [Visit Website](https://kian-energy.com)
 
-## تصاویر پروژه
-## 📸 گالری تصاویر پروژه (پیش‌نمایش سریع)
+## تصاویر پروژه کیان انرژی شمال:
+
+## 📸 گالری تصاویر پروژه کیان انرژی شمال (پیش‌نمایش سریع)
 
 > *برای مشاهده تصویر با کیفیت و ابعاد اصلی، روی هر پیش‌نمایش کلیک کنید.*
 
