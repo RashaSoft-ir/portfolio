@@ -27,7 +27,15 @@ Developing a corporate web portal to manage energy distribution information and 
 | <a href="../assets/kian-energy/home2.png"><img src="../assets/kian-energy/home2.png" alt="صفحه اصلی" width="220"></a> | <a href="../assets/kian-energy/services2.png"><img src="../assets/kian-energy/services2.png" alt="معرفی خدمات" width="220"></a> |
 
 | **درباره ما** | **تماس با ما** |
-| <a href="../assets/kian-energy/about.png"><img src="../assets/kian-energy/about.png" alt="درباره ما" width="220" height="55%" ></a> | <a href="../assets/kian-energy/contactus.png"><img src="../assets/kian-energy/contactus.png" alt="تماس با ما" width="220" height="55%"></a> |
+| <a href="../assets/kian-energy/about.png"><img src="../assets/kian-energy/about.png" alt="درباره ما" width="220" ></a> | <a href="../assets/kian-energy/contactus.png"><img src="../assets/kian-energy/contactus.png" alt="تماس با ما" width="220"></a> |
+
+<details>
+  <summary><b>📜 مشاهده تصویر کامل و تمام‌صفحه کیان انرژی</b></summary>
+  <br>
+  <a href="../assets/kian-energy/home.png">
+    <img src="../assets/kian-energy/home.png" alt="صفحه اصلی" width="100%">
+  </a>
+</details>
 
 
 
