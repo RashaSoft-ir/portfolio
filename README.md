@@ -11,7 +11,7 @@ Explore the web architectures we've built:
 | Project | Industry | Status | Details |
 | :--- | :--- | :--- | :--- |
 | **Kian Energy** | Energy & Gas | Live | [View Case Study](projects/kian-energy.md) |
-| **Parsa Plast** | Manufacturing | Live | [View Case Study](projects/parsa-plast.md) |
+| **Parsa Pelast** | Manufacturing | Live | [View Case Study](projects/parsa-pelast.md) |
 | **Meysameh Paravar**| Arts & Crafts | Live | [View Case Study](projects/meysameh-paravar.md) |
 
 ---
