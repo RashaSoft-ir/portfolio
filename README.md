@@ -15,7 +15,17 @@ Explore the web architectures we've built:
 | **Meysameh Paravar**| Arts & Crafts | Live | [View Case Study](projects/meysameh-paravar.md) |
 
 ---
+## 💼 Client Projects
+Explore the web architectures we've built:
 
+| Project | Industry | Status | Live Preview | Details |
+| :--- | :--- | :--- | :--- | :--- |
+| **Kian Energy** | Energy & Gas | 🟢 Live | [Visit Website ↗](https://example.com) | [View Case Study](projects/kian-energy.md) |
+| **Parsa Pelast** | Manufacturing | 🟢 Live | [Visit Website ↗](https://example.com) | [View Case Study](projects/parsa-pelast.md) |
+| **Meysameh Paravar** | Arts & Crafts | 🟢 Live | [Visit Website ↗](https://meysamehparavar.com) | [View Case Study](projects/meysameh-paravar.md) |
+| **Legacy Project** | Retail | ⚪ Archived | *N/A (Archived)* | [View Case Study](projects/legacy-project.md) |
+
+---
 ## 🎮 Games & Interactive Apps
 Fun projects built with modern web technologies:
 
