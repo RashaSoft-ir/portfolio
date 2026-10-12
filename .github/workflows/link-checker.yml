@@ -1,0 +1,16 @@
+name: Check Markdown Links
+
+on:
+  schedule:
+    - cron: '0 0 1 * *' # اجرای خودکار در ساعت ۰۰:۰۰ روز اول هر ماه
+  workflow_dispatch: # اجازه می‌دهد خودتان دستی هم آن را اجرا کنید
+
+jobs:
+  link-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          config-file: '.github/workflows/mlc_config.json' # اختیاری: برای تنظیمات پیشرفته
+          folder-path: '.' # اسکن کل ریپازیتوری

@@ -1,0 +1,15 @@
+# Parsa Pelast
+
+**Industry:** Plastic
+**Role:** Lead Developer & Architect
+
+### 🎯 Objective
+Developing a corporate web portal to manage plastic hose
+### 🛠 Tech Stack
+- WordPress
+- Elementor Pro
+- Custom CSS/JS
+
+### 🖼 Preview 
+
+[Visit Website](https://parsapelast.com)
