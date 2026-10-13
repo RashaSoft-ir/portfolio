@@ -1,0 +1,157 @@
+<!-- ========================================================
+     پروژه: کیان انرژی
+     بخش: سکشن تعرفه‌های توانیر (المنتور / HTML ویجت)
+     تاریخ: ۱۴۰۳ - مرداد ۱۴۰۵
+     ======================================================== -->
+
+<div class="custom-tariff-wrapper">
+  <div class="tariff-header-action">
+    <h3>جدول نرخ‌های مصوب بر اساس دستورالعمل توانیر (ریال بر کیلووات‌ساعت)</h3>
+    <!-- لینک فایل PDF آپلود شده در وردپرس را در href زیر قرار دهید -->
+    <a href="#" class="tariff-download-btn" target="_blank" download>
+      <i class="fas fa-file-pdf"></i> دانلود نسخه ابلاغی PDF
+    </a>
+  </div>
+  
+  <div class="table-responsive">
+    <table class="tariff-table">
+      <thead>
+        <tr>
+          <th class="col-num">ردیف</th>
+          <th class="col-client">مشترکان مشمول</th>
+          <th class="col-time">بازه‌های زمانی</th>
+          <th class="col-price">میان‌باری</th>
+          <th class="col-price">اوج‌بار</th>
+          <th class="col-price">کم‌باری</th>
+        </tr>
+      </thead>
+      <tbody>
+        <!-- ردیف 1 -->
+        <tr>
+          <td rowspan="4" class="row-num">۱</td>
+          <td rowspan="4" class="client-type">مشترکان با قدرت قراردادی بیش از یک مگاوات و مشترکان مشمول ماده «۵» قانون خدمات کشوری (تأمین از تجدیدپذیر)</td>
+          <td>متوسط نرخ بازار</td>
+          <td>۵۰۸۷.۲۲</td>
+          <td>۵۰۸۷.۲۲</td>
+          <td>۵۰۸۷.۲۲</td>
+        </tr>
+        <tr>
+          <td>حداکثر نرخ بازار عمده‌فروشی برق</td>
+          <td>۷۹۷۳.۰۵</td>
+          <td>۷۹۷۳.۰۵</td>
+          <td>۷۹۷۳.۰۵</td>
+        </tr>
+        <tr>
+          <td>متوسط قیمت تابلوی اول بورس</td>
+          <td>۳۴۶۱</td>
+          <td>۳۴۵۸</td>
+          <td>۳۴۵۸</td>
+        </tr>
+        <tr>
+          <td>حداکثر نرخ تابلوی سبز</td>
+          <td>۱۶۹۵۰۰</td>
+          <td>۱۶۹۵۰۰</td>
+          <td>۱۶۹۵۰۰</td>
+        </tr>
+        <!-- ردیف 2 -->
+        <tr>
+          <td class="row-num">۲</td>
+          <td class="client-type">واحدهای صنعتی با قدرت مصرفی بیش از یک مگاوات مشمول ماده «۱۶» قانون جهش تولید دانش‌بنیان</td>
+          <td>متوسط نرخ خرید برق تجدیدپذیر</td>
+          <td>۸۸۵۲۹</td>
+          <td>۸۸۵۲۹</td>
+          <td>۸۸۵۲۹</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<style>
+.custom-tariff-wrapper {
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.05);
+  padding: 24px;
+  direction: rtl;
+  font-family: inherit;
+}
+.tariff-header-action {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+.tariff-header-action h3 {
+  color: #0B1F33;
+  font-size: 1.15rem;
+  margin: 0;
+  font-weight: 700;
+}
+.tariff-download-btn {
+  background: #19B5A5;
+  color: #ffffff !important;
+  padding: 10px 18px;
+  border-radius: 8px;
+  text-decoration: none;
+  font-size: 0.9rem;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  transition: all 0.3s ease;
+}
+.tariff-download-btn:hover {
+  background: #087EA4;
+  transform: translateY(-2px);
+}
+.table-responsive {
+  overflow-x: auto;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+}
+.tariff-table {
+  width: 100%;
+  table-layout: fixed;
+  border-collapse: collapse;
+  text-align: center;
+  font-size: 0.9rem;
+}
+.tariff-table .col-num { width: 6%; }
+.tariff-table .col-client { width: 28%; }
+.tariff-table .col-time { width: 24%; }
+.tariff-table .col-price { width: 14%; }
+
+.tariff-table th {
+  background-color: #087EA4;
+  color: #ffffff;
+  padding: 14px 8px;
+  font-weight: 600;
+  border: 1px solid #066b8b;
+  word-wrap: break-word;
+}
+.tariff-table td {
+  padding: 12px 8px;
+  border: 1px solid #e2e8f0;
+  color: #334155;
+  word-wrap: break-word;
+}
+.tariff-table tbody tr:nth-child(even) {
+  background-color: #f8fafc;
+}
+.tariff-table tbody tr:hover {
+  background-color: #f0fdf4;
+}
+.tariff-table td.client-type {
+  text-align: right;
+  line-height: 1.6;
+  font-weight: 500;
+  background-color: #ffffff;
+}
+.tariff-table td.row-num {
+  font-weight: bold;
+  background-color: #f8fafc;
+}
+</style>
