@@ -64,7 +64,7 @@
 
 ## English
 
-### Mohammad Hosseinzadeh Siahkalaei
+### Mohammad Hosseinzadeh Siahkolaei
 
 **Web Designer & Developer | IT Consultant | Programming Instructor**
 
@@ -86,7 +86,7 @@ I am a web designer and developer, IT consultant, and programming instructor. I 
 ### Professional Experience
 
 - IT Manager at Ettehad Sanaat Gaz Shomal
-- IT Manager at Parsa Plast
+- IT Manager at Parsa Pelast
 - Website and digital solution development for businesses
 
 ---
