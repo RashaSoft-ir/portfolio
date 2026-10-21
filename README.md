@@ -1,113 +1,96 @@
-<div align="right" dir="rtl">
-
 # محمد حسین‌زاده سیاهکلایی
-### طراح و توسعه‌دهنده وب | مشاور فنی و مدرس برنامه‌نویسی
 
-[English Profile](#-english-version) | [مسیریابی سریع](#-client-projects)
+### طراح و توسعه‌دهنده وب | مشاور IT | مدرس برنامه‌نویسی
 
----
-
-## درباره من / About Me
-من **محمد حسین‌زاده سیاهکلایی** هستم؛ متخصص طراحی و توسعه وب با سال‌ها تجربه در پروژه‌های صنعتی و شرکتی. ترکیبی از دانش مهندسی نرم‌افزار، استراتژی‌های بازاریابی و مدیریت IT را برای ارائه راهکارهای جامع به کار می‌گیرم.
-
-### 🎓 سوابق تحصیلی و تخصصی
-* **کارشناسی ارشد نرم‌افزار** – دانشگاه بابل
-* **کارشناسی ارشد روانشناسی** – دانشگاه ساری
-* **DBA (دکترای حرفه‌ای) بازاریابی و مدیریت استراتژیک** – دانشگاه تهران
-* **مدرس دوره‌های تخصصی برنامه‌نویسی و طراحی سایت**
-
-### 💻 مهارت‌های فنی
-* **Backend & CMS:** PHP, Laravel, WordPress, Filament
-* **Frontend & Apps:** React, React Native, JavaScript, Tailwind CSS
-* **Database & Tools:** SQL Server, MySQL, VBA in Excel, Git
-
-### 💼 سوابق اجرایی و مسئولیت‌ها
-* مدیر و مسئول IT در شرکت‌های صنعتی معتبر از جمله **اتحاد صنعت گاز شمال**، **پارساپلاست** و...
-* مشاور فنی و مجری پروژه‌های تحت وب برای ده‌ها کسب‌وکار و کارفرمای مختلف.
+[نسخه فارسی](#معرفی-فارسی) · [English](#english)
 
 ---
 
-## 💼 Client Projects (نمونه کارها)
-برخی از پروژه‌های وب و سامانه‌های پیاده‌سازی شده:
+## معرفی فارسی
 
-| Project | Industry | Status | Live Preview | Details |
-| :--- | :--- | :--- | :--- | :--- |
-| **Kian Energy** | Energy & Gas | 🟢 Live | [Visit Website ↗](https://kian-energy.com) | [View Case Study](projects/kian-energy.md) |
-| **Parsa Pelast** | Manufacturing | 🟢 Live | [Visit Website ↗](https://parsapelast.com) | [View Case Study](projects/parsa-pelast.md) |
-| **rashabest** | Manufacturing | 🟢 Live | [Visit Website ↗](https://rashabest.com) | [View Case Study](projects/rasha-best.md) |
-| **Meysameh Paravar** | Arts & Crafts | 🟢 Live | [Visit Website ↗](https://meysamehparavar.com) | [View Case Study](projects/meysameh-paravar.md) |
-| **Ettehad Sanaat Gaze Shomal** | Manufacturing | 🟢 Live | [Visit Website ↗](etehadsanatgazshomal.com) | [View Case Study](projects/etehad-sanat-gazs-homal.md) |
-| **rahenovin** | Consulting | ⚪ Archived | *N/A (Archived)* | [View Case Study](projects/rahe-novin.md) |
-| **Legacy Project** | Retail | ⚪ Archived | *N/A (Archived)* | [View Case Study](projects/legacy-project.md) |
+من **محمد حسین‌زاده سیاهکلایی** هستم؛ طراح و توسعه‌دهنده وب، مشاور IT و مدرس دوره‌های برنامه‌نویسی و طراحی سایت. در پروژه‌های شرکتی و صنعتی، از تحلیل نیاز کسب‌وکار تا طراحی و پیاده‌سازی راهکارهای تحت وب فعالیت می‌کنم.
 
----
+### تحصیلات و آموزش
 
-## 🎮 Games & Interactive Apps
-برنامه‌ها و بازی‌های تعاملی:
+- کارشناسی ارشد نرم‌افزار — دانشگاه بابل
+- کارشناسی ارشد روان‌شناسی — دانشگاه ساری
+- DBA بازاریابی و مدیریت استراتژیک — دانشگاه تهران
+- مدرس دوره‌های برنامه‌نویسی و طراحی سایت
 
-| Project | Tech Stack | Live Demo |
-| :--- | :--- | :--- |
-| **Shelemyar Game** | React, Tailwind | [Play Now](https://rashasoft-ir.github.io/shelemyar-game/) |
+### مهارت‌ها
 
----
+- **توسعه وب:** PHP، Laravel، WordPress، .NET
+- **فرانت‌اند و اپلیکیشن:** React، React Native
+- **داده و اتوماسیون:** SQL، VBA و Excel
+- **ابزارها:** Git و GitHub
 
-## 📚 Training & Education
-دوره‌ها و آموزش‌های تخصصی:
+### سوابق حرفه‌ای
 
-* [Python Fundamentals](projects/edu-python.md)
-* [Modern Web Development](projects/edu-web.md)
-* [OOP Mastery](projects/edu-oop.md)
-
----
-*Built with passion by RashaSoft.*  
-📞 تماس: `+989113269223`
-
-</div>
-
----
-<br><br>
-
-<div align="left" dir="ltr">
-
-# Mohammad Hosseinzadeh Siah kolaei
-### Web Designer & Developer | IT Consultant & Programming Instructor
+- مسئول IT در شرکت اتحاد صنعت گاز شمال
+- مسئول IT در شرکت پارساپلاست
+- طراحی و توسعه وب‌سایت و راهکارهای دیجیتال برای کسب‌وکارها
 
 ---
 
-## 👤 About Me
-I am **Mohammad Hosseinzadeh Siah kolaei**, a web developer and IT professional with extensive experience in industrial and corporate web solutions. Combining software engineering with strategic marketing knowledge to deliver robust digital products.
+## نمونه‌کارهای مشتریان
 
-### 🎓 Education & Certifications
-* **M.Sc. in Software Engineering** – University of Babol
-* **M.Sc. in Psychology** – University of Sari
-* **DBA in Marketing & Strategic Management** – University of Tehran
-* **Programming & Web Development Instructor**
-
-### 💻 Technical Skills
-* **Backend & CMS:** PHP, Laravel, WordPress, Filament
-* **Frontend & Apps:** React, React Native, JavaScript, Tailwind CSS
-* **Database & Tools:** SQL Server, MySQL, VBA in Excel, Git
-
-### 💼 Professional Experience
-* IT Manager & Administrator at leading manufacturing enterprises including **Ettehad Sanaat Gaze Shomal**, **Parsa Pelast**, etc.
-* Technical consultant and web solution provider for various business clients.
+| پروژه | حوزه | وضعیت | وب‌سایت | مطالعه موردی |
+|---|---|---|---|---|
+| Kian Energy | انرژی و گاز | فعال | [مشاهده وب‌سایت](https://kian-energy.com) | [جزئیات پروژه](projects/kian-energy.md) |
+| Parsa Pelast | تولیدی | فعال | [مشاهده وب‌سایت](https://parsapelast.com) | [جزئیات پروژه](projects/parsa-pelast.md) |
+| RashaBest | تولیدی | فعال | [مشاهده وب‌سایت](https://rashabest.com) | [جزئیات پروژه](projects/rasha-best.md) |
+| Meysameh Paravar | هنر و صنایع‌دستی | فعال | [مشاهده وب‌سایت](https://meysamehparavar.com) | [جزئیات پروژه](projects/meysameh-paravar.md) |
+| Ettehad Sanaat Gaz Shomal | تولیدی | فعال | [مشاهده وب‌سایت](https://etehadsanatgazshomal.com) | [جزئیات پروژه](projects/etehad-sanat-gaz-s-homal.md) |
+| Rahe Novin | مشاوره | بایگانی‌شده | — | [جزئیات پروژه](projects/rahe-novin.md) |
+| Legacy Project | خرده‌فروشی | بایگانی‌شده | — | [جزئیات پروژه](projects/legacy-project.md) |
 
 ---
 
-## 💼 Client Projects
+## بازی‌ها و اپلیکیشن‌های تعاملی
 
-| Project | Industry | Status | Live Preview | Details |
-| :--- | :--- | :--- | :--- | :--- |
-| **Kian Energy** | Energy & Gas | 🟢 Live | [Visit Website ↗](https://kian-energy.com) | [View Case Study](projects/kian-energy.md) |
-| **Parsa Pelast** | Manufacturing | 🟢 Live | [Visit Website ↗](https://parsapelast.com) | [View Case Study](projects/parsa-pelast.md) |
-| **rashabest** | Manufacturing | 🟢 Live | [Visit Website ↗](https://rashabest.com) | [View Case Study](projects/rasha-best.md) |
-| **Meysameh Paravar** | Arts & Crafts | 🟢 Live | [Visit Website ↗](https://meysamehparavar.com) | [View Case Study](projects/meysameh-paravar.md) |
-| **Ettehad Sanaat Gaze Shomal** | Manufacturing | 🟢 Live | [Visit Website ↗](etehadsanatgazshomal.com) | [View Case Study](projects/etehad-sanat-gazs-homal.md) |
-| **rahenovin** | Consulting | ⚪ Archived | *N/A (Archived)* | [View Case Study](projects/rahe-novin.md) |
-| **Legacy Project** | Retail | ⚪ Archived | *N/A (Archived)* | [View Case Study](projects/legacy-project.md) |
+| پروژه | فناوری | نسخه نمایشی |
+|---|---|---|
+| Shelemyar Game | React، Tailwind CSS | [اجرای بازی](https://rashasoft-ir.github.io/shelemyar-game/) |
 
 ---
-*Built with passion by RashaSoft.*  
-📞 Contact: `+989113269223`
 
-</div>
+## آموزش
+
+- [مبانی پایتون](projects/edu-python.md)
+- [توسعه وب مدرن](projects/edu-web.md)
+- [برنامه‌نویسی شیءگرا](projects/edu-oop.md)
+
+---
+
+## English
+
+### Mohammad Hosseinzadeh Siahkalaei
+
+**Web Designer & Developer | IT Consultant | Programming Instructor**
+
+I am a web designer and developer, IT consultant, and programming instructor. I work on corporate and industrial projects, helping businesses turn their requirements into practical web solutions.
+
+### Education
+
+- M.Sc. in Software Engineering — University of Babol
+- M.Sc. in Psychology — University of Sari
+- DBA in Marketing and Strategic Management — University of Tehran
+
+### Technical Skills
+
+- **Web Development:** PHP, Laravel, WordPress, .NET
+- **Frontend & Apps:** React, React Native
+- **Data & Automation:** SQL, VBA, Excel
+- **Tools:** Git and GitHub
+
+### Professional Experience
+
+- IT Manager at Ettehad Sanaat Gaz Shomal
+- IT Manager at Parsa Plast
+- Website and digital solution development for businesses
+
+---
+
+*Built with care by RashaSoft.*
+
+Contact: **+98 911 326 9223**
