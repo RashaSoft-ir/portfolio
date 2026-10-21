@@ -69,13 +69,13 @@
 
 <div align="left" dir="ltr">
 
-# Mohammad Hosseinzadeh Siahkalaei
+# Mohammad Hosseinzadeh Siah kolaei
 ### Web Designer & Developer | IT Consultant & Programming Instructor
 
 ---
 
 ## 👤 About Me
-I am **Mohammad Hosseinzadeh Siahkalaei**, a web developer and IT professional with extensive experience in industrial and corporate web solutions. Combining software engineering with strategic marketing knowledge to deliver robust digital products.
+I am **Mohammad Hosseinzadeh Siah kolaei**, a web developer and IT professional with extensive experience in industrial and corporate web solutions. Combining software engineering with strategic marketing knowledge to deliver robust digital products.
 
 ### 🎓 Education & Certifications
 * **M.Sc. in Software Engineering** – University of Babol
